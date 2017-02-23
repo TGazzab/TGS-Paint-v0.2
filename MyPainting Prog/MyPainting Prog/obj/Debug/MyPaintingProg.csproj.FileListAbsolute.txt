@@ -1,0 +1,18 @@
+c:\users\tgazz\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\bin\Debug\MyPainting Prog.exe.config
+c:\users\tgazz\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\bin\Debug\MyPainting Prog.exe
+c:\users\tgazz\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\bin\Debug\MyPainting Prog.pdb
+c:\users\tgazz\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPainting_Prog.Form1.resources
+c:\users\tgazz\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPaintingProg.csproj.GenerateResource.Cache
+c:\users\tgazz\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPainting Prog.exe
+c:\users\tgazz\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPainting Prog.pdb
+c:\users\tgazz\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPaintingProg.csprojResolveAssemblyReference.cache
+c:\users\tgazz\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPainting_Prog.Properties.Resources.resources
+C:\Users\Gary\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\bin\Debug\MyPainting Prog.exe.config
+C:\Users\Gary\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\bin\Debug\MyPainting Prog.exe
+C:\Users\Gary\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\bin\Debug\MyPainting Prog.pdb
+C:\Users\Gary\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPainting_Prog.Form1.resources
+C:\Users\Gary\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPainting_Prog.Properties.Resources.resources
+C:\Users\Gary\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPaintingProg.csproj.GenerateResource.Cache
+C:\Users\Gary\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPainting Prog.exe
+C:\Users\Gary\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPainting Prog.pdb
+C:\Users\Gary\documents\visual studio 2015\Projects\MyPainting Prog\MyPainting Prog\obj\Debug\MyPaintingProg.csprojResolveAssemblyReference.cache
